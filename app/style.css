@@ -1,0 +1,7 @@
+.json-data {
+  width: 100%;
+}
+
+.json-google, .json-facebook {
+  word-break: break-all;
+}
